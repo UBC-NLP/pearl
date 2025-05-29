@@ -1,0 +1,497 @@
+[
+  {
+    "Category": "Food",
+    "Question_Type": "MCQ",
+    "Question": "ما اسم الطبق التقليدي الظاهر في الصورة؟"
+  },
+  {
+    "Category": "Food",
+    "Question_Type": "MCQ",
+    "Question": "هل يعتبر هذا الطبق من الأطعمة المقدمة في وجبة الإفطار أم الغداء أم العشاء تقليدياً؟"
+  },
+  {
+    "Category": "Food",
+    "Question_Type": "MCQ",
+    "Question": "ما التقنية التقليدية المستخدمة في طهي هذا الطبق؟"
+  },
+  {
+    "Category": "Food",
+    "Question_Type": "MCQ",
+    "Question": "أي من الأدوات التقليدية التالية تستخدم في تحضير هذا الطبق؟"
+  },
+  {
+    "Category": "Food",
+    "Question_Type": "MCQ",
+    "Question": "ما المشروب التقليدي الذي عادة ما يقدم مع هذا الطبق؟"
+  },
+  {
+    "Category": "Food",
+    "Question_Type": "MCQ",
+    "Question": "ما المكون الرئيسي المستخدم في إعداد هذا الطبق؟"
+  },
+  {
+    "Category": "Food",
+    "Question_Type": "MCQ",
+    "Question": "في أي مناسبة ثقافية يتم تقديم هذا الطبق عادة؟"
+  },
+  {
+    "Category": "Food",
+    "Question_Type": "MCQ",
+    "Question": "من أي منطقة جغرافية ينحدر هذا الطبق التقليدي؟"
+  },
+  {
+    "Category": "Food",
+    "Question_Type": "MCQ",
+    "Question": "أي من المكونات التالية تدخل في تحضير هذا الطبق التقليدي؟"
+  },
+  {
+    "Category": "Flora",
+    "Question_Type": "MCQ",
+    "Question": "ما اسم النبات التقليدي الظاهر في الصورة؟"
+  },
+  {
+    "Category": "Flora",
+    "Question_Type": "MCQ",
+    "Question": "ما الاستخدام الطبي التقليدي لهذا النبات في الثقافة العربية؟"
+  },
+  {
+    "Category": "Flora",
+    "Question_Type": "MCQ",
+    "Question": "في أي بيئة طبيعية ينمو هذا النبات بشكل أساسي؟"
+  },
+  {
+    "Category": "Flora",
+    "Question_Type": "MCQ",
+    "Question": "ما الرمزية الثقافية لهذا النبات في التراث العربي؟"
+  },
+  {
+    "Category": "Flora",
+    "Question_Type": "MCQ",
+    "Question": "ما الاستخدام التقليدي لهذا النبات في الثقافة العربية؟"
+  },
+  {
+    "Category": "Flora",
+    "Question_Type": "MCQ",
+    "Question": "في أي موسم يزهر هذا النبات التقليدي؟"
+  },
+  {
+    "Category": "Flora",
+    "Question_Type": "MCQ",
+    "Question": "ما اسم الزيت العطري المستخرج من هذا النبات؟"
+  },
+  {
+    "Category": "Flora",
+    "Question_Type": "MCQ",
+    "Question": "في أي من الأمثال أو التعابير الشعبية العربية يذكر هذا النبات؟"
+  },
+  {
+    "Category": "Flora",
+    "Question_Type": "MCQ",
+    "Question": "أي من هذه المناطق العربية تعتبر موطناً أصلياً لهذا النبات؟"
+  },
+  {
+    "Category": "Flora",
+    "Question_Type": "MCQ",
+    "Question": "ما القيمة الثقافية التي يرمز إليها هذا النبات في التراث العربي؟"
+  },
+  {
+    "Category": "Architecture",
+    "Question_Type": "MCQ",
+    "Question": "ما نوع المادة الأساسية المستخدمة في بناء المبنى الظاهر في الصورة؟"
+  },
+  {
+    "Category": "Architecture",
+    "Question_Type": "MCQ",
+    "Question": "ما الطراز المعماري الذي ينتمي إليه هذا المبنى؟"
+  },
+  {
+    "Category": "Architecture",
+    "Question_Type": "MCQ",
+    "Question": "ما الغرض الوظيفي الأساسي من تصميم هذا العنصر المعماري؟"
+  },
+  {
+    "Category": "Architecture",
+    "Question_Type": "MCQ",
+    "Question": "في أي فترة تاريخية تم بناء هذا النمط من العمارة؟"
+  },
+  {
+    "Category": "Architecture",
+    "Question_Type": "MCQ",
+    "Question": "ما العنصر المعماري التقليدي الذي يمكن ملاحظته في هذا المبنى؟"
+  },
+  {
+    "Category": "Architecture",
+    "Question_Type": "MCQ",
+    "Question": "كيف تم تكييف هذا المبنى للتعامل مع المناخ المحلي؟"
+  },
+  {
+    "Category": "Architecture",
+    "Question_Type": "MCQ",
+    "Question": "ما الرمزية الدينية أو الثقافية للزخارف الموجودة على واجهة المبنى؟"
+  },
+  {
+    "Category": "Architecture",
+    "Question_Type": "MCQ",
+    "Question": "ما تأثير هذا النمط المعماري على العمارة الحديثة في المنطقة؟"
+  },
+  {
+    "Category": "Architecture",
+    "Question_Type": "MCQ",
+    "Question": "ما الوظيفة الاجتماعية لهذا النوع من المباني في المجتمع التقليدي؟"
+  },
+  {
+    "Category": "Architecture",
+    "Question_Type": "MCQ",
+    "Question": "ما التقنية البنائية التقليدية المستخدمة في تشييد هذا النوع من المباني؟"
+  },
+  {
+    "Category": "Clothes",
+    "Question_Type": "MCQ",
+    "Question": "ما اسم القطعة الرئيسية من الزي التقليدي الظاهر في الصورة؟"
+  },
+  {
+    "Category": "Clothes",
+    "Question_Type": "MCQ",
+    "Question": "في أي منطقة جغرافية يرتدى هذا الزي التقليدي بشكل شائع؟"
+  },
+  {
+    "Category": "Clothes",
+    "Question_Type": "MCQ",
+    "Question": "ما الغرض الوظيفي الأساسي من تصميم هذا الزي التقليدي؟"
+  },
+  {
+    "Category": "Clothes",
+    "Question_Type": "MCQ",
+    "Question": "بأي مناسبة ثقافية أو اجتماعية يرتبط ارتداء هذا الزي؟"
+  },
+  {
+    "Category": "Clothes",
+    "Question_Type": "MCQ",
+    "Question": "ما العنصر التزييني التقليدي الذي يظهر على هذا الزي؟"
+  },
+  {
+    "Category": "Clothes",
+    "Question_Type": "MCQ",
+    "Question": "كيف تطور هذا الزي التقليدي عبر العصور المختلفة؟"
+  },
+  {
+    "Category": "Clothes",
+    "Question_Type": "MCQ",
+    "Question": "ما دلالة ألوان هذا الزي التقليدي في الثقافة المحلية؟"
+  },
+  {
+    "Category": "Clothes",
+    "Question_Type": "MCQ",
+    "Question": "ما طريقة النسيج التقليدية المستخدمة في صناعة هذا الزي؟"
+  },
+  {
+    "Category": "Clothes",
+    "Question_Type": "MCQ",
+    "Question": "ما المكانة الاجتماعية التي يرمز إليها هذا الزي التقليدي؟"
+  },
+  {
+    "Category": "Clothes",
+    "Question_Type": "MCQ",
+    "Question": "ما القيمة الثقافية التي يعكسها تصميم هذا الزي التقليدي؟"
+  },
+  {
+    "Category": "Fauna",
+    "Question_Type": "MCQ",
+    "Question": "ما اسم الحيوان التقليدي الظاهر في الصورة؟"
+  },
+  {
+    "Category": "Fauna",
+    "Question_Type": "MCQ",
+    "Question": "ما الدور الثقافي لهذا الحيوان في المجتمعات العربية التقليدية؟"
+  },
+  {
+    "Category": "Fauna",
+    "Question_Type": "MCQ",
+    "Question": "في أي بيئة طبيعية يعيش هذا الكائن بشكل أساسي؟"
+  },
+  {
+    "Category": "Fauna",
+    "Question_Type": "MCQ",
+    "Question": "ما الاستخدام التقليدي الأبرز لهذا الحيوان في الثقافة العربية؟"
+  },
+  {
+    "Category": "Fauna",
+    "Question_Type": "MCQ",
+    "Question": "ما المنتج التقليدي الذي يتم الحصول عليه من هذا الحيوان؟"
+  },
+  {
+    "Category": "Fauna",
+    "Question_Type": "MCQ",
+    "Question": "ما مكانة هذا الحيوان في الشعر العربي التقليدي؟"
+  },
+  {
+    "Category": "Fauna",
+    "Question_Type": "MCQ",
+    "Question": "ما الممارسة التقليدية المرتبطة بتربية هذا الحيوان والظاهرة في الصورة؟"
+  },
+  {
+    "Category": "Fauna",
+    "Question_Type": "MCQ",
+    "Question": "ما الأسطورة أو القصة الشعبية المرتبطة بهذا الحيوان في التراث العربي؟"
+  },
+  {
+    "Category": "Fauna",
+    "Question_Type": "MCQ",
+    "Question": "كيف يتم ترويض أو تدريب هذا الحيوان وفقاً للتقاليد العربية؟"
+  },
+  {
+    "Category": "Fauna",
+    "Question_Type": "MCQ",
+    "Question": "ما الصفة الإنسانية التي ترمز إليها هذه الفصيلة من الحيوانات في الثقافة العربية؟"
+  },
+  {
+    "Category": "Festivals & Celebrations",
+    "Question_Type": "MCQ",
+    "Question": "ما اسم الاحتفال أو المهرجان الظاهر في الصورة؟"
+  },
+  {
+    "Category": "Festivals & Celebrations",
+    "Question_Type": "MCQ",
+    "Question": "في أي موسم أو وقت من السنة يقام هذا الاحتفال التقليدي؟"
+  },
+  {
+    "Category": "Festivals & Celebrations",
+    "Question_Type": "MCQ",
+    "Question": "ما المناسبة الثقافية أو الدينية التي يرتبط بها هذا الاحتفال؟"
+  },
+  {
+    "Category": "Festivals & Celebrations",
+    "Question_Type": "MCQ",
+    "Question": "ما العنصر التقليدي الأبرز في هذا الاحتفال الثقافي؟"
+  },
+  {
+    "Category": "Festivals & Celebrations",
+    "Question_Type": "MCQ",
+    "Question": "ما الممارسة التقليدية التي يمكن ملاحظتها في هذا الاحتفال؟"
+  },
+  {
+    "Category": "Festivals & Celebrations",
+    "Question_Type": "MCQ",
+    "Question": "ما الأطعمة التقليدية الخاصة بهذا الاحتفال؟"
+  },
+  {
+    "Category": "Festivals & Celebrations",
+    "Question_Type": "MCQ",
+    "Question": "ما الملابس التقليدية التي يتم ارتداؤها خلال هذا الاحتفال؟"
+  },
+  {
+    "Category": "Festivals & Celebrations",
+    "Question_Type": "MCQ",
+    "Question": "ما الرقصة الشعبية المرتبطة بهذا الاحتفال التقليدي؟"
+  },
+  {
+    "Category": "Festivals & Celebrations",
+    "Question_Type": "MCQ",
+    "Question": "كيف تغير هذا الاحتفال مع مرور الزمن في الثقافة المعاصرة؟"
+  },
+  {
+    "Category": "Festivals & Celebrations",
+    "Question_Type": "MCQ",
+    "Question": "ما القيمة الاجتماعية التي يعزّزها هذا الاحتفال التقليدي؟"
+  },
+  {
+    "Category": "Music",
+    "Question_Type": "MCQ",
+    "Question": "ما اسم الآلة الموسيقية التقليدية الظاهرة في الصورة؟"
+  },
+  {
+    "Category": "Music",
+    "Question_Type": "MCQ",
+    "Question": "من أي مادة تصنع هذه الآلة الموسيقية التقليدية بشكل أساسي؟"
+  },
+  {
+    "Category": "Music",
+    "Question_Type": "MCQ",
+    "Question": "في أي نوع من الأداء الموسيقي التقليدي تستخدم هذه الآلة عادة؟"
+  },
+  {
+    "Category": "Music",
+    "Question_Type": "MCQ",
+    "Question": "ما المنطقة الجغرافية التي تشتهر باستخدام هذه الآلة الموسيقية تقليديا؟"
+  },
+  {
+    "Category": "Music",
+    "Question_Type": "MCQ",
+    "Question": "ما نوع المناسبة الثقافية التي يمكن أن تستخدم فيها هذه الآلة الموسيقية؟"
+  },
+  {
+    "Category": "Music",
+    "Question_Type": "MCQ",
+    "Question": "ما المقام الموسيقي التقليدي الذي يعزف عادة على هذه الآلة؟"
+  },
+  {
+    "Category": "Music",
+    "Question_Type": "MCQ",
+    "Question": "ما أسلوب العزف التقليدي على هذه الآلة الموسيقية؟"
+  },
+  {
+    "Category": "Music",
+    "Question_Type": "MCQ",
+    "Question": "ما الآلة الموسيقية الأخرى التي غالباً ما ترافق هذه الآلة في الأداء التقليدي؟"
+  },
+  {
+    "Category": "Music",
+    "Question_Type": "MCQ",
+    "Question": "من هو الموسيقار العربي الشهير الذي اشتهر بالعزف على هذه الآلة؟"
+  },
+  {
+    "Category": "Music",
+    "Question_Type": "MCQ",
+    "Question": "ما الخاصية الصوتية المميزة لهذه الآلة الموسيقية التقليدية؟"
+  },
+  {
+    "Category": "Geography",
+    "Question_Type": "MCQ",
+    "Question": "ما اسم المعلم الجغرافي الظاهر في الصورة؟"
+  },
+  {
+    "Category": "Geography",
+    "Question_Type": "MCQ",
+    "Question": "في أي دولة عربية يقع هذا المعلم الجغرافي؟"
+  },
+  {
+    "Category": "Geography",
+    "Question_Type": "MCQ",
+    "Question": "ما نوع التضاريس الطبيعية التي تظهر في الصورة؟"
+  },
+  {
+    "Category": "Geography",
+    "Question_Type": "MCQ",
+    "Question": "ما الأهمية الثقافية لهذا المعلم الجغرافي في التراث المحلي؟"
+  },
+  {
+    "Category": "Geography",
+    "Question_Type": "MCQ",
+    "Question": "ما الظاهرة الطبيعية التي يمكن ملاحظتها في هذا المشهد الجغرافي؟"
+  },
+  {
+    "Category": "Geography",
+    "Question_Type": "MCQ",
+    "Question": "ما تأثير هذه التضاريس الطبيعية على أنماط الحياة التقليدية للسكان المحليين؟"
+  },
+  {
+    "Category": "Geography",
+    "Question_Type": "MCQ",
+    "Question": "ما الموارد الطبيعية التي تشتهر بها هذه المنطقة الجغرافية؟"
+  },
+  {
+    "Category": "Geography",
+    "Question_Type": "MCQ",
+    "Question": "ما النظام البيئي السائد في هذه المنطقة الجغرافية؟"
+  },
+  {
+    "Category": "Geography",
+    "Question_Type": "MCQ",
+    "Question": "ما الظاهرة المناخية المميزة لهذه المنطقة الجغرافية؟"
+  },
+  {
+    "Category": "Geography",
+    "Question_Type": "MCQ",
+    "Question": "ما النشاط البشري التقليدي الذي يمارسه السكان في هذه البيئة الجغرافية؟"
+  },
+  {
+    "Category": "Handicrafts",
+    "Question_Type": "MCQ",
+    "Question": "ما اسم الحرفة التقليدية التي تمثلها القطعة الظاهرة في الصورة؟"
+  },
+  {
+    "Category": "Handicrafts",
+    "Question_Type": "MCQ",
+    "Question": "ما المواد الأساسية المستخدمة في صناعة هذه القطعة الحرفية؟"
+  },
+  {
+    "Category": "Handicrafts",
+    "Question_Type": "MCQ",
+    "Question": "في أي منطقة ثقافية تشتهر هذه الحرفة التقليدية؟"
+  },
+  {
+    "Category": "Handicrafts",
+    "Question_Type": "MCQ",
+    "Question": "ما الاستخدام التقليدي لهذه القطعة الحرفية في الثقافة المحلية؟"
+  },
+  {
+    "Category": "Handicrafts",
+    "Question_Type": "MCQ",
+    "Question": "ما التقنية الحرفية التقليدية المستخدمة في صنع هذه القطعة؟"
+  },
+  {
+    "Category": "Handicrafts",
+    "Question_Type": "MCQ",
+    "Question": "ما الرموز التقليدية المستخدمة في زخرفة هذه القطعة الحرفية؟"
+  },
+  {
+    "Category": "Handicrafts",
+    "Question_Type": "MCQ",
+    "Question": "كيف يتم نقل معرفة هذه الحرفة التقليدية بين الأجيال؟"
+  },
+  {
+    "Category": "Handicrafts",
+    "Question_Type": "MCQ",
+    "Question": "ما التحديات التي تواجه استمرارية هذه الحرفة التقليدية في العصر الحديث؟"
+  },
+  {
+    "Category": "Handicrafts",
+    "Question_Type": "MCQ",
+    "Question": "ما المكانة الاقتصادية لهذه الحرفة في المجتمع المحلي تقليدياً؟"
+  },
+  {
+    "Category": "Handicrafts",
+    "Question_Type": "MCQ",
+    "Question": "ما الدلالة الثقافية للألوان المستخدمة في هذه القطعة الحرفية؟"
+  },
+  {
+    "Category": "Landmarks",
+    "Question_Type": "MCQ",
+    "Question": "ما اسم المعلم الأثري أو التاريخي الظاهر في الصورة؟"
+  },
+  {
+    "Category": "Landmarks",
+    "Question_Type": "MCQ",
+    "Question": "في أي مدينة عربية يقع هذا المعلم التاريخي؟"
+  },
+  {
+    "Category": "Landmarks",
+    "Question_Type": "MCQ",
+    "Question": "في أي فترة تاريخية تم بناء هذا المعلم؟"
+  },
+  {
+    "Category": "Landmarks",
+    "Question_Type": "MCQ",
+    "Question": "ما الغرض الأصلي من بناء هذا المعلم التاريخي؟"
+  },
+  {
+    "Category": "Landmarks",
+    "Question_Type": "MCQ",
+    "Question": "ما العنصر المعماري أو الفني البارز الذي يمكن ملاحظته في هذا المعلم؟"
+  },
+  {
+    "Category": "Landmarks",
+    "Question_Type": "MCQ",
+    "Question": "ما الحدث التاريخي المهم الذي ارتبط بهذا المعلم؟"
+  },
+  {
+    "Category": "Landmarks",
+    "Question_Type": "MCQ",
+    "Question": "ما الشخصية التاريخية المرتبطة بإنشاء أو تطوير هذا المعلم؟"
+  },
+  {
+    "Category": "Landmarks",
+    "Question_Type": "MCQ",
+    "Question": "ما التغييرات التي طرأت على هذا المعلم عبر العصور التاريخية المختلفة؟"
+  },
+  {
+    "Category": "Landmarks",
+    "Question_Type": "MCQ",
+    "Question": "ما الأهمية السياحية أو الاقتصادية لهذا المعلم في الوقت الحاضر؟"
+  },
+  {
+    "Category": "Landmarks",
+    "Question_Type": "MCQ",
+    "Question": "ما القصة أو الأسطورة الشعبية المرتبطة بهذا المعلم التاريخي؟"
+  }
+]
